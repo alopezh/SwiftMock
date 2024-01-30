@@ -7,7 +7,15 @@
 
 ## Installation
 
-To use `SwiftMock` in your project, simply copy the `SwiftMock.swift` file into your project's source code.
+To use `SwiftMock` Add the framework to your Xcode project:
+
+    - Navigate to File › Add Packages… and enter “https://github.com/alopezh/SwiftMock”
+
+	- Change Dependency Rule to Up to Next Minor Version and enter “0.1.0”
+
+    - Click Add Package
+
+    - Select your test target and click Add Package
 
 ## Usage
 
